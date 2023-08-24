@@ -54,4 +54,4 @@ The plots also have manually entered metrics from the testing CSVs. These will n
 - Resnet101 Test 3 IoU/Dice
 - VGG19 Test 3 IoU/Dice
 
-Not very untuitive but it works. Just a bit confusing when entering your own values. Should be changed to extract the correct index from the nine CSVs.
+Not very intuitive but it works. Just a bit confusing when entering your own values. Ideally should be changed to extract the correct index from the nine CSVs.
